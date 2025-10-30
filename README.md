@@ -1,10 +1,13 @@
 # Hedera DLT x Data Analytics
+This repository demonstrates how Hedera’s Distributed Ledger Technology (DLT) can be integrated with legacy data analytics systems to create secure and transparent workflows.
 
-This repository showcases an architectural diagram demonstrating how Hedera’s Distributed Ledger Technology (DLT) integrates with legacy data systems to enhance data analytics.
+ Files in this repo
+- hedera_dlt_analytics.pdf → full explanation of the integration
+- diagram.png → architecture visualization
 
-Diagram Summary:
-- Smart Contract Service (HSCS):Validates and enforces rules.
-- Token Service (HTS):Tokenizes verified data for traceability.
-- Consensus Service (HCS):Logs immutable data events.
+ Components
+- Smart Contract Service (HSCS)
+- Token Service (HTS)
+- Consensus Service (HCS)
 
-This concept was built for the Hedera Data Analytics Bounty demonstrating the potential of DLT-driven analytics workflows.
+These components enhance data validation, tokenization, and immutability for analytics workflows.
